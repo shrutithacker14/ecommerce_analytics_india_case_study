@@ -19,7 +19,7 @@ Rather than executing a generic "Load CSV → Clean → Plot charts" pipeline, t
 ## 📸 Executive Visual Dashboard
 
 ### 1. Monthly Revenue & Profitability Trajectory (Diwali Festive Peaks)
-![Monthly Revenue Trend in INR](images/01_monthly_revenue_trend_inr.png)
+![Monthly Revenue Trend in INR]01_monthly_revenue_trend_inr.png
 
 ### 2. ⭐ Indian RFM Customer Segmentation (Pareto Skew)
 ![RFM Segmentation Breakdown in INR](images/03_rfm_segmentation_breakdown_inr.png)
