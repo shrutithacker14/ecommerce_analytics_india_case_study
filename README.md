@@ -19,22 +19,27 @@ Rather than executing a generic "Load CSV → Clean → Plot charts" pipeline, t
 ## 📸 Executive Visual Dashboard
 
 ### 1. Monthly Revenue & Profitability Trajectory (Diwali Festive Peaks)
-![Monthly Revenue Trend in INR]01_monthly_revenue_trend_inr.png
+![Monthly Revenue Trend in INR]<img width="2400" height="1000" alt="01_monthly_revenue_trend_inr" src="https://github.com/user-attachments/assets/9fb6a284-f94f-484d-b85f-b9fe00059b68" />
+
 
 ### 2. ⭐ Indian RFM Customer Segmentation (Pareto Skew)
-![RFM Segmentation Breakdown in INR](images/03_rfm_segmentation_breakdown_inr.png)
+![RFM Segmentation Breakdown in INR]<img width="2800" height="1200" alt="03_rfm_segmentation_breakdown_inr" src="https://github.com/user-attachments/assets/8c8a7c8d-4c63-41d4-ac89-2609652aa061" />
+
 
 ### 3. Category Revenue vs. Return-to-Origin (RTO) Friction
-![Category Revenue vs Returns in INR](images/02_category_revenue_returns_inr.png)
+![Category Revenue vs Returns in INR]<img width="2200" height="1000" alt="02_category_revenue_returns_inr" src="https://github.com/user-attachments/assets/20d9a131-1458-418d-884d-f5e13c4b3521" />
+
 
 ### 4. Discount Elasticity: Margin Compression vs. Return Friction
-![Discount vs Profit & Returns in INR](images/04_discount_vs_profit_returns_inr.png)
+![Discount vs Profit & Returns in INR]<img width="1800" height="1000" alt="04_discount_vs_profit_returns_inr" src="https://github.com/user-attachments/assets/1753f374-3e3e-42e8-bef5-5fb1c54a9b1a" />
 
 ### 5. Top 10 Flagship Products Across India
-![Top Products Sales & Profit](images/05_top_products_sales_profit_inr.png)
+![Top Products Sales & Profit]<img width="2200" height="1200" alt="05_top_products_sales_profit_inr" src="https://github.com/user-attachments/assets/fded7132-0d72-483a-8592-5fe485ddbba4" />
+
 
 ### 6. Geographic Concentration: Top 8 States & Zone-Wise AOV
-![Geography State & AOV](images/06_geography_state_aov_inr.png)
+![Geography State & AOV]<img width="2800" height="1000" alt="06_geography_state_aov_inr" src="https://github.com/user-attachments/assets/c1f61c4b-a7c5-4a61-8fb9-e7a70ea9b43f" />
+
 
 ---
 
